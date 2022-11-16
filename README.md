@@ -19,3 +19,4 @@ Formally specify the following system using Petri Nets
 
 الحل باستخدام شبكة بتري نت
 
+![dedd5844-ef86-4ada-8760-1eed2641223a](https://user-images.githubusercontent.com/98769936/202312954-477cda7f-ceda-43a9-9714-e3088ec92e66.jpg)
